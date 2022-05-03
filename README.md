@@ -2,9 +2,6 @@ Dear candidate,
 
 Thank you so much for accepting our challenge. We are really excited to know more about your tech skills. 
 
-- You have 7 days after you received the email to publish your solution (including Saturday and Sunday), the sooner you publish it the better.
-- Please publish your solution in a **private** repository and invite: priyanka-asati, patilyogeshp, esteban-uo
-
 ## What we will measure?
 - UX / Usability 
 - Code Best practices
